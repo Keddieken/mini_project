@@ -1,0 +1,4 @@
+MY UNDERSTANDING OF GIT, GITHUB AND SHELL
+Git is a control system on my local pc used by devs to track changes made to files and recover lost files (previously commited files).
+GitHub is an online platform where devs store git repos (from the local pc) and collab with others.
+Shell is just a command line interface e.g ubuntu which allow users (devs) to communicate with the os using differnt commands like. pwd, ls, ls -a, ls -la, touch, vi, cat, cd, cd.., cd../, rm, rm -r
